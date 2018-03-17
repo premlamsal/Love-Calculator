@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Love Calculator</string>
+    <string name="love_percentage_is">Love Percentage is</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_your_love_name">Your Love Name</string>
+    <string name="enter_your_name">Your Name</string>
+    <string name="welcome_to_love_calculator">Welcome to Love Calculator</string>
+    <string name="about_calculator">About Calculator</string>
+    <string name="About_love_calcu">App developed by Prem Lamsal just for Fun. Ping me at: premlamsal2@gmail.com</string>
+    <string name="love_calulator_theme">Love Calulator simply uses basic logic to find love percentage between You and Your Love. Use Your real birth name for more accurate Love Percentage</string>
+    <string name="aboutt">About</string>
+</resources>
